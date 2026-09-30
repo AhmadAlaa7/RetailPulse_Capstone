@@ -1,3 +1,13 @@
+## Created by
+
+* **Ahmed Khaled**
+* **Abdullah Ayman**
+* **Ahmad Alaa**
+<<<<<<< HEAD
+* **Mahmoud Saleh**
+* **Karim Hany**
+* **Abdullah Shaban**
+
 # Docker Big Data Tools
 :information_source: **This docker-compose file is configured to run multiple nodes.**
 
@@ -198,17 +208,7 @@ ORDER BY records DESC;
 **Metabase Dashboard**
 ![Metabase dashboard](assets/screenshots/Metabase_dashbord.png)
 ---
-## Created by
 
-* **Ahmed Khaled**
-* **Abdullah Ayman**
-* **Ahmed Alaa**
-<<<<<<< HEAD
-* **Mahmoud Saleh**
-* **Karim Hany**
-* **Abdullah Shaban**
 =======
-* **Eng/** **Mahmoud Saleh**
-* **Karim Hany**
-* **Abdullah Shaban**
+
 >>>>>>> 85b2e8c (Update README and project files)
